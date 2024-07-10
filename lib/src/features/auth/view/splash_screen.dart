@@ -1,5 +1,5 @@
 import 'package:budget_buddy/src/constants/text_string.dart';
-import 'package:budget_buddy/src/features/auth/controller/splash_screen.dart';
+import 'package:budget_buddy/src/features/auth/controller/splash_screen_controller.dart';
 import 'package:budget_buddy/src/features/auth/view/welcome_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
